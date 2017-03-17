@@ -1,0 +1,10 @@
+beautifulsoup4==4.5.3
+Django==1.10.5
+inflect==0.2.5
+jaraco.itertools==2.0
+more-itertools==2.5.0
+requests==2.12.4
+six==1.10.0
+wikipedia==1.4.0
+wolframalpha==3.0
+xmltodict==0.10.2
