@@ -27,7 +27,7 @@ def search(request):
 		try:
 			#WolfRamAlpha database search
 			
-			app_id = "G639QJ-GRP8YT7V92"
+			app_id = "your_wolfram_app_id"
 
 			client = wolframalpha.Client(app_id)
 
